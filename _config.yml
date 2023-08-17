@@ -7,11 +7,11 @@ title: "Dumpster Diving For Data"
 description: Adventures in a World of Dirty Data
 
 # color theme for links
-theme-color: indigo # indigo|yellow|pink|green|stone|
+theme-color: stone # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Brick
-author-bio: false  # change to false to hide
+author: Dumpster Diving For Data
+author-bio: Adventures in a World of Dirty Data  # change to false to hide
 author-image: logo_transparent.png  # file must be in the /assets/img/ folder
 
 # navigation menu

@@ -7,7 +7,7 @@ title: "Dumpster Diving For Data"
 description: Adventures in a World of Dirty Data
 
 # color theme for links
-theme-color: stone # indigo|yellow|pink|green|stone|
+theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Brick
@@ -33,11 +33,11 @@ github: false
 linkedin: false
 medium: false
 google-scholar: false
-email: brick@dumpsterdivedata.com
+email: mailto:brick@dumpsterdivedata.com
 
 # footer information
 footer-msg: "Powered by Your Trash"
-footer-msg-link: https:/dumpsterdivedata.com
+footer-msg-link: https://dumpsterdivedata.com
 
 # google analytics
 google-analytics: false

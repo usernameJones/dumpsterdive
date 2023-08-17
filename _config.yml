@@ -7,7 +7,7 @@ title: "Dumpster Diving For Data"
 description: Adventures in a World of Dirty Data
 
 # color theme for links
-theme-color: indigo # indigo|yellow|pink|green|stone|
+theme-color: stone # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Brick
@@ -18,12 +18,12 @@ author-image: 279.png  # file must be in the /assets/img/ folder
 show-nav-menu: true
 
 nav-menu:
-- text: About
-  permalink: about
-- text: Bitcoin
-  permalink: bitcoin
-- text: Blog
-  permalink: blog
+- text: Adventures
+  permalink: Adventures
+- text: Shirts
+  permalink: Shirts
+- text: Contact
+  permalink: Contact
 
 # use false to turn off any social media links
 twitter: https://twitter.com/
